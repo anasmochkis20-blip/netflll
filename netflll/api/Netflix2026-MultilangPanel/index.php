@@ -1,5 +1,5 @@
 <?php
 require 'main.php';
-@$m->saveHit();
+// @$m->saveHit();
 header("location: auth/login.php");
 ?>
